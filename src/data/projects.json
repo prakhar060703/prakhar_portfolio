@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Searching Visualizer",
+      "imageSrc": "projects/project.png",
+      "description": "Developed an interactive web tool illustrating linear and binary search algorithms, enabling users to generate arrays and customize animation speed and size",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://6519691fac5f2a4e5deb45b7--idyllic-griffin-41f70e.netlify.app/",
+      "source": "https://github.com/prakhar060703/Searching_Visualizer"
+    },
+    {
+        "title": "Musico App",
+        "imageSrc": "projects/project2.png",
+        "description": "Developed an interactive webApp in which the user can play any song from a given list.  Users can play, pause, change to the next and previous songs.",
+        "skills": ["HTML", "CSS", "Javascript"],
+        "demo": "https://prakhar060703.github.io/Musico-App/",
+        "source": "https://github.com/prakhar060703/Musico-App"
+      },
+      {
+        "title": "NEWSbite-React-App",
+        "imageSrc": "projects/project3.png",
+        "description": "Developed a dynamic platform facilitating users to access and browse current news updates effortlessly.",
+        "skills": ["HTML", "CSS", "Javascript","Reactjs"],
+        "demo": "https://prakhar060703.github.io/NEWSbite-React-App/",
+        "source": "https://github.com/prakhar060703/NEWSbite-React-App"
+      }
+    
+  ]

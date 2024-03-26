@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit",Arial, Helvetica, sans-serif;
+}
+
+html{
+  scroll-behavior: smooth;
+  /* it make transition smooth on clicking on about,home,experience etc beacause we are navigating there through id's */
+}

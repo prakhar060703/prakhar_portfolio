@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Backend Development Intern",
+    "organisation": "MyOoumph Networks Pvt Ltd",
+    "startDate": "June, 2023",
+    "endDate": "November,2023",
+    "experiences": [
+      "Worked on Social Media webapp",
+      "Developed Graphql Api's",
+      "Designed Responsive Web Pages"
+
+    ],
+    "imageSrc": "history/ooumph.png"
+  },
+  {
+    "role": "SDE Intern",
+    "organisation": "Alexion Technologies Pvt Ltd",
+    "startDate": "May, 2023",
+    "endDate": "September,2023",
+    "experiences": [
+      "Developed a Montioring Website ",
+      "Implemented real-time dashboards",
+      "Enabled customizable MIS reports"
+
+    ],
+    "imageSrc": "history/alexion.jpeg"
+  }
+  
+]
